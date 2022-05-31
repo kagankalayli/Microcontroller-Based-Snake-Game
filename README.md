@@ -35,3 +35,5 @@ In this project it is aimed to recreate the classic snake game using Microchip P
 ![Game Over](https://github.com/kagankalayli/Microcontroller-Based-Snake-Game/blob/main/Snake%20Game/Images/gameover.png)
 ### Game Over Turkish
 ![Game Over Turkish](https://github.com/kagankalayli/Microcontroller-Based-Snake-Game/blob/main/Snake%20Game/Images/oyunbitti.png)
+### Mobile Application
+![App](https://github.com/kagankalayli/Microcontroller-Based-Snake-Game/blob/main/Snake%20Game/Images/androidapp.jpg)
